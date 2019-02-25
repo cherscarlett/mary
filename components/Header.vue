@@ -113,7 +113,7 @@ header > * {
   grid-area: none;
 }
 .text {
-  transform: translateY(50%) translateX(-4%);
+  transform: translateY(50%) translateX(6%);
   filter: drop-shadow(0 0 1px black);
   position: absolute;
   left: 0;
